@@ -4,3 +4,17 @@ QR Code Generator. You Can Put On Your Link or Any Data. QR Code Generator for U
 NOTE: Now only URL and TEXT support!
 
 ![QRCODE](https://user-images.githubusercontent.com/49250151/103653970-7b26f380-4f8f-11eb-9a2c-0c7652e6cf85.png)
+
+For any kind of help, support, payment, suggetion and request ask me on Telegram:
+
+<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
+
+## Follow on:
+<p align="left">
+<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left">
+<a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p><p align="left">
+<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+</p><p align="left"> 
+ 
