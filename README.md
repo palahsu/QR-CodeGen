@@ -11,7 +11,7 @@ NOTE: Now only URL and TEXT support!
 - Adding URL
 - Adding Text
 
-All feature coming!
+More feature coming Soon!
 
 For any kind of help, support, payment, suggetion and request ask me on Gmail / Telegram:
 
