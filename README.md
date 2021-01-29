@@ -5,7 +5,7 @@ NOTE: Now only URL and TEXT support!
 
 ![QRCODE](https://user-images.githubusercontent.com/49250151/103653970-7b26f380-4f8f-11eb-9a2c-0c7652e6cf85.png)
 
-For any kind of help, support, payment, suggetion and request ask me on Telegram:
+For any kind of help, support, payment, suggetion and request ask me on Gmail / Telegram:
 
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
