@@ -8,6 +8,8 @@ NOTE: Now only URL and TEXT support!
 # Feature
 - GUI
 - Adding Website
+- Adding URL
+- Adding Text
 
 For any kind of help, support, payment, suggetion and request ask me on Gmail / Telegram:
 
