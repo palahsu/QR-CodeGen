@@ -16,7 +16,9 @@ More feature & exe coming Soon!
 
 # Install all requirements:
 `pip install qrcode`
+
 `pip install tkinter`
+
 `pip install python`
 
 For any kind of help, support, payment, suggetion and request ask me on Gmail / Telegram:
