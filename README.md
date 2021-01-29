@@ -11,8 +11,13 @@ NOTE: Now only URL and TEXT support!
 - Adding URL
 - Adding Text
 
-You can run this script on your py compiler/terminal. Install all python requirements!
+You can run this script on your py compiler/terminal. !
 More feature & exe coming Soon!
+
+# Install all requirements:
+`pip install qrcode`
+`pip install tkinter`
+`pip install python`
 
 For any kind of help, support, payment, suggetion and request ask me on Gmail / Telegram:
 
