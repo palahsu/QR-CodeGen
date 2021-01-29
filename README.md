@@ -21,7 +21,7 @@ More feature & exe coming Soon!
 
 `pip install python`
 
-For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
+For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram: 
 
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
