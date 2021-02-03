@@ -23,7 +23,7 @@ More feature & exe coming Soon!
 
 For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram: 
 
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
+<a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
 ## Follow on:
 <p align="left">
